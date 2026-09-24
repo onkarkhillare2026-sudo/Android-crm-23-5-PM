@@ -1,0 +1,8 @@
+{
+  "name": "CallBridge CRM",
+  "description": "Mobile CRM and phone bridge for recruiters with call logging, dispositions, and lead management",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
